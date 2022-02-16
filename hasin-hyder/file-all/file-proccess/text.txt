@@ -1,0 +1,6 @@
+Omor,10,23,2
+Ahmed,07,15,9
+Kabor,!2,35,8
+Kamal,4,5,8
+Kamal,4,5,8
+Kamal,4,5,8

@@ -1,0 +1,1 @@
+var data=[{"fname":"Omor","lname":"faruk","Age":25,"Profession":"Web Developer"},{"fname":"Ahmed","lname":"Kabir","Age":25,"Profession":"Web Developer"},{"fname":"Mhadi","lname":"Hossain","Age":25,"Profession":"Web Developer"}]

@@ -10,9 +10,11 @@
     <h2>Kawser Alom</h2>
     <?php echo "Hello World"; 
     
-    if (condition) {
-        # code...
+    $numbers =  range(0,100);
+    foreach($numbers as $number){
+        echo $number . "<br>";
     }
+   
     
     
     ?>
